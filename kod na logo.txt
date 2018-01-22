@@ -1,0 +1,4 @@
+			<div id="logo">
+					<a href="<?php bloginfo( 'home' ); ?>"><img src="<?=get_template_directory_uri(); ?>/img/logoup.png" alt="logo Bykonu"></img>
+				<span id="title">Bydgoski Konwent Multifandomowy</span></a>
+			</div>
